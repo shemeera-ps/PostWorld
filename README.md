@@ -24,9 +24,12 @@ Fetch API for data fetching
 
 📦 Installation
 
-git clon ehttps://github.com/shemeera-ps/PostWorld.git
+git clon ehttps://github.com/shemeera-ps/PostWorld.git 
+
 cd PostWorld
+
 npm install
+
 npm run dev
 
 🤝 Contributing
