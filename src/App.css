@@ -1,0 +1,7 @@
+/* import { CSS } from "@dnd-kit/utilities";
+
+// Within your component that receives `transform` from `useDraggable`:
+const style = {
+  transform: CSS.Translate.toString(transform),
+}; */
+@import "tailwindcss";
